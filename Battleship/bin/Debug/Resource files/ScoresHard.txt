@@ -1,0 +1,14 @@
+﻿Afanasiy
+1200
+Pavlo 
+1000
+Petro 
+800
+Anatoliy 
+600
+Anton 
+300
+Philip 
+200
+Gohn 
+100
